@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/snoop-blog/static/css/main.e7cf03ba.css",
-    "main.js": "/snoop-blog/static/js/main.a03384ac.js",
+    "main.js": "/snoop-blog/static/js/main.ecaea3a7.js",
     "static/media/hydroponie.jpg": "/snoop-blog/static/media/hydroponie.b6f8d351c62499cc0182.jpg",
     "static/media/snoop-dogg.jpg": "/snoop-blog/static/media/snoop-dogg.4849de5943a38c623b12.jpg",
     "index.html": "/snoop-blog/index.html",
     "main.e7cf03ba.css.map": "/snoop-blog/static/css/main.e7cf03ba.css.map",
-    "main.a03384ac.js.map": "/snoop-blog/static/js/main.a03384ac.js.map"
+    "main.ecaea3a7.js.map": "/snoop-blog/static/js/main.ecaea3a7.js.map"
   },
   "entrypoints": [
     "static/css/main.e7cf03ba.css",
-    "static/js/main.a03384ac.js"
+    "static/js/main.ecaea3a7.js"
   ]
 }
